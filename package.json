@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/tdfg.lwc-l84pxkjz",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve X3eVN7M5IwK2AxFksIvU --open"
+  }
+}
